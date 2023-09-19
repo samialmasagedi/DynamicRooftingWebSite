@@ -1,0 +1,868 @@
+Uri: https://static.elfsight.com/platform/platform.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\platform\platform.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\index.htm
+Content Type: text/html
+
+Uri: https://www.dynamicroofintn.com/about.html
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\about.html.htm
+Content Type: text/html
+
+Uri: https://www.dynamicroofintn.com/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/flaticon.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/odometer-theme-car.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\odometer-theme-car.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/rs6.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400-1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400-1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900-1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1-1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1.svg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1.ttf
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1.ttf
+Content Type: font/ttf
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1.woff
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1.woff
+Content Type: font/woff
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v1.woff2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v1.woff2
+Content Type: font/woff2
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2-1.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2.eot
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2.svg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2.ttf
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2.ttf
+Content Type: font/ttf
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2.woff
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2.woff
+Content Type: font/woff
+
+Uri: https://www.dynamicroofintn.com/assets/fonts/flaticon-v2.woff2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\fonts\flaticon-v2.woff2
+Content Type: font/woff2
+
+Uri: https://www.dynamicroofintn.com/assets/images/blog/email-icon.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\blog\email-icon.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-1.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-2.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-3.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-4.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-5.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/insta-6.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\insta-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/slider-object.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\slider-object.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/sr-item-bg.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\sr-item-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/sr-middle.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\sr-middle.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home1/star-object.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home1\star-object.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/arrow1.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\arrow1.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/arrow2.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\arrow2.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-1.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-10.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-11.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-12.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-13.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-14.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-15.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-16.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-17.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-18.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-2.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-3.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-4.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-5.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-6.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-7.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-8.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/blog-9.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/brand-1.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\brand-1.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/brand-2.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\brand-2.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/brand-3.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\brand-3.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/brand-4.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\brand-4.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/gr.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\gr.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/sr-1.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\sr-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/sr-2.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\sr-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/sr-3.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\sr-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/video-bg.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/home2/video.m4v
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\home2\video.m4v
+Content Type: video/x-m4v
+
+Uri: https://www.dynamicroofintn.com/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/04.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/05.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\05.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/07.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/08.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\08.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/09.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\09.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/10.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/11.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/12.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\12.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/13.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/14.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\14.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/15.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\15.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/16.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\16.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/17.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/18.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\18.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/19.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/20.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\20.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/21.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\21.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/22.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\22.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/23.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\23.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/24.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\24.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/25.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\25.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/26.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\26.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/27.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\27.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/28.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\28.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/29.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\29.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/30.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\30.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/31.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\31.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/32.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/33.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\33.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/34.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\34.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/35.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\35.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/36.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\36.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/37.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\37.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/38.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\38.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/39.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\39.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/40.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/41.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\41.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/42.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\42.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/43.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\43.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/44.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\44.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/45.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\45.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/46.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\46.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/47.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\47.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/48.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\48.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/01-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\01-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/02-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\02-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/03-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\03-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/04-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\04-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/05-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\05-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/06-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\06-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/07-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\07-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/08-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\08-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/09-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\09-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/10-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\10-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/11-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\11-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/12-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\12-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/13-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\13-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/14-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\14-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/15-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\15-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/16-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\16-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/17-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\17-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/18-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\18-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/19-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\19-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/20-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\20-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/21-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\21-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/22-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\22-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/23-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\23-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/24-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\24-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/25-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\25-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/26-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\26-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/27-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\27-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/28-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\28-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/29-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\29-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/30-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\30-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/31-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\31-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/32-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\32-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/33-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\33-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/34-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\34-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/35-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\35-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/36-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\36-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/37-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\37-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/38-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\38-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/39-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\39-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/40-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\40-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/41-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\41-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/42-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\42-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/43-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\43-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/44-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\44-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/45-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\45-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/46-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\46-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/47-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\47-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/portfolio/zoom/48-zoom.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\portfolio\zoom\48-zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-1.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-1.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-2.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-2.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-3.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-3.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-4.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-4.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-5.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-5.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/icon-6.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\icon-6.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/services/shadow.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\services\shadow.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/slider/home2/bg-slider4.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\slider\home2\bg-slider4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/slider/home2/bg-slider5.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\slider\home2\bg-slider5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/slider/home2/bg-slider6.jpg
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\slider\home2\bg-slider6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.dynamicroofintn.com/assets/images/slider/home2/slider-star1.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\slider\home2\slider-star1.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/images/slider/home2/slider2-bg-bottom1.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\images\slider\home2\slider2-bg-bottom1.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/appear.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\appear.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/before-after.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\before-after.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/easing.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\easing.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/isotope.pkgd.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\isotope.pkgd.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/odometer.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\odometer.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/piechart.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\piechart.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/rbtools.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/rs6.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/slick.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/assets/js/vendor/wow.min.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\assets\js\vendor\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/contact.html
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\contact.html.htm
+Content Type: text/html
+
+Uri: https://www.dynamicroofintn.com/css2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\css2
+Content Type: 
+
+Uri: https://www.dynamicroofintn.com/css2-1
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\css2-1
+Content Type: 
+
+Uri: https://www.dynamicroofintn.com/css2-2
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\css2-2
+Content Type: 
+
+Uri: https://www.dynamicroofintn.com/css2-3
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\css2-3
+Content Type: 
+
+Uri: https://www.dynamicroofintn.com/css2-4
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\css2-4
+Content Type: 
+
+Uri: https://www.dynamicroofintn.com/favicon.png
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\favicon.png
+Content Type: image/png
+
+Uri: https://www.dynamicroofintn.com/index.html
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\index.html.htm
+Content Type: text/html
+
+Uri: https://www.dynamicroofintn.com/platform/platform.js
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\platform\platform-1.js
+Content Type: application/javascript
+
+Uri: https://www.dynamicroofintn.com/portfolio.html
+File Name: C:\Downloaded Web Sites\www.dynamicroofintn.com\portfolio.html.htm
+Content Type: text/html
+
